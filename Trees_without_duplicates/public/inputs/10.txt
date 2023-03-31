@@ -1,0 +1,1 @@
+$ cd /\n$ ls\n(d)dir_1 (d)dir_2\n$ cd dir_2\n$ ls\n

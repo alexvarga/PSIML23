@@ -1,0 +1,1 @@
+$ cd /\n$ ls\n(f)file1 (d)dir1 (d)dir2 (f)file2\n$ cd dir1\n$ ls\n(f)file1\n$ cd ..\n$ cd dir2\n$ ls\n(d)dir3 (f)file3\n$ cd dir3\n$ ls\n(d)dir4 (f)file1 (d)dir5\n$ cd dir5\n$ ls\n
